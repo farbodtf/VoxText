@@ -15,7 +15,7 @@
 ---
 
 ### 📥 دانلود مستقیم
-[⬇️ دانلود VoxText Setup](https://github.com/farbodtf/AppVoiceText/releases/download/v1.0.0/VoxText_Setup.exe)
+[⬇️ دانلود VoxText Setup](https://github.com/farbodtf/VoxText/releases/download/v1.0.0/VoxText_Setup.exe)
 
 ---
 
@@ -25,3 +25,5 @@
 - دانلود کنید📥 دانلود فایل نصب
 - نصب و اجرا کنید و از شورت‌کات دسکتاپ استفاده کنید
 - برای تست سریع، یک فایل صوتی کوتاه یا تصویر شامل متن فارسی/انگلیسی را وارد کنید تا خروجی را بررسی کنید.
+
+![VoxText preview]([assets/screenshots/voxtext-preview.png](https://github.com/user-attachments/assets/fee25bd3-ce68-4240-ba45-8f10250ccfce))
