@@ -28,4 +28,10 @@
 - برای تست سریع، یک فایل صوتی کوتاه یا تصویر شامل متن فارسی/انگلیسی را وارد کنید تا خروجی را بررسی کنید.
 
 
-![VoxText preview](VoxText.png)
+
+<p align="center">
+  <img src="VoxText.png" width="500" height="400" alt="VoxText preview">
+</p>
+
+
+
