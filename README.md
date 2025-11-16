@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img src="VoxText.png" width="500" height="400" alt="VoxText preview">
+  <img src="vox_text.png" width="500" height="400" alt="VoxText preview">
 </p>
 
 
